@@ -4,7 +4,8 @@
   "description": "",
   "main": "arrayParser.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon arrayParser.js"
   },
   "author": "",
   "license": "ISC"
